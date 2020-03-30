@@ -13,7 +13,8 @@
     "react-native-gesture-handler": "1.4.1",
     "react-native-reanimated": "1.2.0",
     "react-navigation": "3.11.1",
-    "reactotron-react-native": "^5.0.0"
+    "reactotron-react-native": "^5.0.0",
+    "styled-components": "^5.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
