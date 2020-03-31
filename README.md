@@ -1,8 +1,9 @@
+
 # GitHub Starred Repositories
 This is a simple mobile App made with React Native that receives a GitHub user, e.g., ``moratelli`` and shows that user's starred repositories. Everything is stored in AsyncStorage.
 
 <p align="center">
-  <img src="./app.gif">
+  <img height="400" src="./app.gif">
 </p>
 
 ## Installation
