@@ -56,6 +56,8 @@ PODS:
     - React-cxxreact (= 0.60.6)
     - React-jsi (= 0.60.6)
   - React-jsinspector (0.60.6)
+  - react-native-webview (9.0.2):
+    - React
   - React-RCTActionSheet (0.60.6):
     - React-Core (= 0.60.6)
   - React-RCTAnimation (0.60.6):
@@ -100,6 +102,7 @@ DEPENDENCIES:
   - React-jsi (from `../node_modules/react-native/ReactCommon/jsi`)
   - React-jsiexecutor (from `../node_modules/react-native/ReactCommon/jsiexecutor`)
   - React-jsinspector (from `../node_modules/react-native/ReactCommon/jsinspector`)
+  - react-native-webview (from `../node_modules/react-native-webview`)
   - React-RCTActionSheet (from `../node_modules/react-native/Libraries/ActionSheetIOS`)
   - React-RCTAnimation (from `../node_modules/react-native/Libraries/NativeAnimation`)
   - React-RCTBlob (from `../node_modules/react-native/Libraries/Blob`)
@@ -141,6 +144,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/ReactCommon/jsiexecutor"
   React-jsinspector:
     :path: "../node_modules/react-native/ReactCommon/jsinspector"
+  react-native-webview:
+    :path: "../node_modules/react-native-webview"
   React-RCTActionSheet:
     :path: "../node_modules/react-native/Libraries/ActionSheetIOS"
   React-RCTAnimation:
@@ -184,6 +189,7 @@ SPEC CHECKSUMS:
   React-jsi: 1a4248256b96fa453536a8dafe11b784e24e789d
   React-jsiexecutor: 2279e559b921d02dfc6253ebef3dcb3a9dc6c07e
   React-jsinspector: a58b86545a0185f69768e78ac96ca9fe43fa3694
+  react-native-webview: 53d0b4e398e8f59a1e9870685d079ace9228db70
   React-RCTActionSheet: 49f6a67a7efa6688f637296383d453b97ef13645
   React-RCTAnimation: e8047438b2927ebbe630bbf600c7309374075df3
   React-RCTBlob: 2c4b28daca5b3e6e356706d8e0c7436a0e8ef492
